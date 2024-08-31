@@ -1,0 +1,10 @@
+in this lesson-5 folder
+
+use of ganache app and Terminal
+
+solidity file -> deploy , encript
+abi ,binary, wallet file .
+
+file -> read, write
+
+

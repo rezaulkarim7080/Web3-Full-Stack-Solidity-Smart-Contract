@@ -1,0 +1,3 @@
+in this lesson-6 folder
+
+Hardhat deep dive learnings

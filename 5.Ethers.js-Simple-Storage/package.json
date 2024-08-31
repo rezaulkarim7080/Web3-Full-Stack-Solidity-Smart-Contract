@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "fs-extra": "^11.2.0",
+    "solc": "^0.8.24"
+  },
+  "scripts": {
+    "compile": "npx solc --bin --abi --optimize simple.sol -o output/"
+  }
+}
